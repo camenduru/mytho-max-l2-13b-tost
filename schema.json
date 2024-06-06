@@ -4,7 +4,7 @@
     "properties": {
       "readme": {
         "type": "string",
-        "title": "MythoMax-L2-13b",
+        "title": "MythoMax L2 13b",
         "author": "Gryphe",
         "page": "https://ai.meta.com/blog/meta-llama-3/",
         "code":"https://github.com/meta-llama/llama3",
